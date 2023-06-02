@@ -1,0 +1,16 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34;
+  flex-direction: column;
+  color: #ffffff !important;
+
+}
+
+.create-form label{
+  color: #ffffff !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px !important;
+}
